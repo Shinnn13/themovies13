@@ -1,0 +1,46 @@
+.MyBG {
+    height: 100vh;
+    background: url("../assets/img/bg/manos-gkikas-pPA5ActWLLI-unsplash.jpg");
+}
+
+.intro {
+    height: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.tittle {
+    font-size: 4rem;
+    font-weight: 810;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/img/bg/denise-jans-OaVJQZ-nFD0-unsplash.jpg");
+    background-size: cover;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/img/bg/paolo-chiabrando-G16kFHYvCoQ-unsplash.jpg");
+    background-size: cover;
+}
+
+/* .MovieWrapper {
+
+} */
+
+.MovieCoverImage {
+    height: auto;
+    background-color: black;
+    margin: 6px;
+    padding: 6px;
+}
+
+.TrendingImages {
+    height: 500px;
+}
