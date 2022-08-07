@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/themovies13/static/css/main.c4b55d69.css",
+    "main.js": "/themovies13/static/js/main.48757603.js",
+    "static/js/787.8376db51.chunk.js": "/themovies13/static/js/787.8376db51.chunk.js",
+    "static/media/snh_online_6072x9000_posed_01.jpg": "/themovies13/static/media/snh_online_6072x9000_posed_01.3feca81b85b3f9099888.jpg",
+    "static/media/marvel-cinematic-universe-spiderman-far-from-home-movie-poster.jpg": "/themovies13/static/media/marvel-cinematic-universe-spiderman-far-from-home-movie-poster.9c4d952b88f9d9473813.jpg",
+    "static/media/71niXI3lxlL._AC_SL1183_.jpg": "/themovies13/static/media/71niXI3lxlL._AC_SL1183_.3e71c9cdc92cd5be87a9.jpg",
+    "static/media/jpg": "/themovies13/static/media/0c741d63608bcbaf753c956a7c996cab.ba9fcd9e2d4f245b9480.jpg",
+    "static/media/tlat_payoffposter_ph_id_d335e44b.jpeg": "/themovies13/static/media/tlat_payoffposter_ph_id_d335e44b.8c3eee093bfeb8472744.jpeg",
+    "static/media/paolo-chiabrando-G16kFHYvCoQ-unsplash.jpg": "/themovies13/static/media/paolo-chiabrando-G16kFHYvCoQ-unsplash.d82b1468f56160dbf22d.jpg",
+    "static/media/denise-jans-OaVJQZ-nFD0-unsplash.jpg": "/themovies13/static/media/denise-jans-OaVJQZ-nFD0-unsplash.36602e7f7d98f8a87761.jpg",
+    "static/media/71lADxngTWS._AC_SL1050_.jpg": "/themovies13/static/media/71lADxngTWS._AC_SL1050_.9bb73168a0cd7a9a065a.jpg",
+    "static/media/manos-gkikas-pPA5ActWLLI-unsplash.jpg": "/themovies13/static/media/manos-gkikas-pPA5ActWLLI-unsplash.d460ac212429e1d2a277.jpg",
+    "static/media/pixie(2020).jpg": "/themovies13/static/media/pixie(2020).3d922f3411c26fb0f0c4.jpg",
+    "static/media/medium-cover(2021).jpg": "/themovies13/static/media/medium-cover(2021).df356c92ac1dfab37c7a.jpg",
+    "static/media/art-of-love(2021).jpg": "/themovies13/static/media/art-of-love(2021).7fc3f0b509df12d8561d.jpg",
+    "static/media/gray-man_cover(2022).jpg": "/themovies13/static/media/gray-man_cover(2022).e7b32feece9b4f501a8f.jpg",
+    "static/media/anything's-possible(2022).jpg": "/themovies13/static/media/anything's-possible(2022).113b4298549e3adbb98a.jpg",
+    "static/media/don't-make-me-go_cover(2022).jpg": "/themovies13/static/media/don't-make-me-go_cover(2022).ce7b14cfbed8c06e865a.jpg",
+    "index.html": "/themovies13/index.html",
+    "main.c4b55d69.css.map": "/themovies13/static/css/main.c4b55d69.css.map",
+    "main.48757603.js.map": "/themovies13/static/js/main.48757603.js.map",
+    "787.8376db51.chunk.js.map": "/themovies13/static/js/787.8376db51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4b55d69.css",
+    "static/js/main.48757603.js"
+  ]
+}
